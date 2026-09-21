@@ -178,6 +178,10 @@ Stores questions that the chatbot could not answer so they can be reviewed later
 - Advanced semantic embeddings
 - Authentication
 - Cloud deployment
+## 📸 Output
+<img width="1440" height="777" alt="Screenshot 2026-09-21 at 9 45 51 AM" src="https://github.com/user-attachments/assets/3b4899d3-6c1b-48c6-8b03-f9a7b2ab9369" />
+<br></br>
+<img width="1440" height="777" alt="Screenshot 2026-09-21 at 9 49 22 AM" src="https://github.com/user-attachments/assets/d03618d0-409c-45f4-9cf2-4274adb08352" />
 
 ## 🚀 Live Demo
 
