@@ -187,7 +187,7 @@ Try the CampusBuddy multilingual college FAQ chatbot online.
 
 ## 👨‍💻 Author
 
-**Bharath R**
+**Krithik Raj R**
 
 ## 📄 License
 
